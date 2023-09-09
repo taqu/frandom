@@ -18,14 +18,14 @@ Measure on next environment,
 |OS|Debian 12.1|
 
 ## g++ 12.2.0
-| | timing (millioseconds) |
+| | timing (milliseconds) |
 |:---|:---|
 |frandom_table|536|
 |frandom_downey|371|
 |frandom_downey_opt|268|
 
 ## clang++ 14.0.6
-| | timing (millioseconds) |
+| | timing (milliseconds) |
 |:---|:---|
 |frandom_table|521|
 |frandom_downey|362|
